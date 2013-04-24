@@ -1,0 +1,8 @@
+additiona include paths:
+%mosync-home%/include, %mosync-home%/include/newlib/stlport/, %mosync-home%/include/newlib/, %mosync-home%/include/NativeUI/
+
+additional libary paths:
+%mosync-home%/lib/newlib_release, %mosync-home%/lib/pipe
+
+additional librarys:
+newlib.lib, stlport.lib, MAUtil.lib,nativeui.lib

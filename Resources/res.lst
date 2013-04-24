@@ -1,0 +1,90 @@
+.res RES_WORKER_ROCK
+.image "worker_rock.png"
+.res RES_WORKER_WOOD
+.image "worker_wood.png"
+.res RES_WORKER_LAKE
+.image "worker_lake.png"
+
+.res RES_WORKER_BACKPACK
+.image "worker_backpack.png"
+
+.res RES_TENT_ROCK
+.image "tent_rock.png"
+.res RES_TENT_WOOD
+.image "tent_wood.png"
+.res RES_TENT_LAKE
+.image "tent_lake.png"
+
+.res RES_MATERIAL_ROCK
+.image "material_rock.png"
+.res RES_MATERIAL_WOOD
+.image "material_wood.png"
+.res RES_MATERIAL_LAKE
+.image "material_lake.png"
+
+.res RES_SOURCE_TREE1
+.image "source_tree1.png"
+.res RES_SOURCE_TREE2
+.image "source_tree2.png"
+.res RES_SOURCE_TREE3
+.image "source_tree3.png"
+.res RES_SOURCE_TREE1_OFF
+.image "source_tree1_off.png"
+.res RES_SOURCE_TREE2_OFF
+.image "source_tree2_off.png"
+.res RES_SOURCE_TREE3_OFF
+.image "source_tree3_off.png"
+
+.res RES_SOURCE_LAKE1
+.image "source_lake1.png"
+.res RES_SOURCE_LAKE2
+.image "source_lake2.png"
+.res RES_SOURCE_LAKE3
+.image "source_lake3.png"
+.res RES_SOURCE_LAKE1_OFF
+.image "source_lake1_off.png"
+.res RES_SOURCE_LAKE2_OFF
+.image "source_lake2_off.png"
+.res RES_SOURCE_LAKE3_OFF
+.image "source_lake3_off.png"
+
+.res RES_SOURCE_ROCK1
+.image "source_rock1.png"
+.res RES_SOURCE_ROCK2
+.image "source_rock2.png"
+.res RES_SOURCE_ROCK3
+.image "source_rock3.png"
+.res RES_SOURCE_ROCK1_OFF
+.image "source_rock1_off.png"
+.res RES_SOURCE_ROCK2_OFF
+.image "source_rock2_off.png"
+.res RES_SOURCE_ROCK3_OFF
+.image "source_rock3_off.png"
+
+.res RES_BG1
+.image "bg1.png"
+.res RES_TRANSP
+.image "transp.png"
+.res RES_RIP
+.image "rip.png"
+
+.res RES_BUTTON_OUT
+.image "button_out.png"
+.res RES_BUTTON_STOP
+.image "button_stop.png"
+.res RES_BUTTON_GO
+.image "button_go.png"
+.res RES_BUTTON_WORK
+.image "button_work.png"
+.res RES_BUTTON_WORK_STOP
+.image "button_work_stop.png"
+.res RES_BUTTON_WORK_SEARCH
+.image "button_work_search.png"
+.res RES_BUTTON_EXIT
+.image "button_exit.png"
+// RES_BUTTON_EXIT musi byc zawsze ostatnia grafika png 
+
+
+.res TEXTFILE
+.bin
+.include "text.txt"
